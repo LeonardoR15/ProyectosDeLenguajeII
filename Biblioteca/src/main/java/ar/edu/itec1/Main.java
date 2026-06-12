@@ -3,8 +3,6 @@ package ar.edu.itec1;
 import ar.edu.itec1.util.ConsoleReader;
 import ar.edu.itec1.view.MenuView;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
 
